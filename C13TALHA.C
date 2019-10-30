@@ -24,7 +24,7 @@ void main()
 		break;
 	case 4 :printf("%d*%d=%d",a,b,(a*b));
 		break;
-	default :printf("Wrong option selected");
+	default :printf("You have selected wrong option");
 	}
 	printf("\n\nDo you want to continue , if yes press 1");
 	scanf("%d",&w);
