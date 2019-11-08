@@ -7,7 +7,7 @@ void main()
 	scanf("%d",&n);
 	for(x=1;x<n;x++)
 	{
-	printf("\nTalha\n\n");
+	printf("\nMd Talha Ateque\n\n");
 	}
 	getch();
 
