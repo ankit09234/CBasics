@@ -7,6 +7,7 @@ void main()
 	clrscr();
 	printf("Enter a number");
 	scanf("%d",&n);
+	printf("The fibonacii series is : ");
 	for(i=1;i<=n;i++)
 	{
 	printf("%d",a);
